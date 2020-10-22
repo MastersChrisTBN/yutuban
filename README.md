@@ -18,8 +18,8 @@ Youtube bot for auto-like and auto-subscribe
                       >>> 	    |_|   |_|   |____/|_| |_|\___/|_|           <<<
                       >>> 	                                                <<<
                       >>> ===================================================== <<<
-                      >>> [DEV] : BitTheByte (Ahmed Ezzat)                      <<<
-                      >>> [GitHub] : https://www.github.com/bitthebyte          <<<
+                      >>> [DEV] : Pak Steven.                                   <<<
+                      >>> [Telegram] : @TermuxUserHack.                         <<<
                       >>> [Version] : 12.8.3v                                   <<<
                       >>> +++++++++++++++++++++++++++++++++++++++++++++++++++++ <<<
 ```
